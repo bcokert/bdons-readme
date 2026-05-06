@@ -35,58 +35,14 @@ $$\text{Team Net Impact} = \text{Autonomy} \cdot \int (\text{Capability} \cdot \
 **Treat AI as a Powertool**: AI replaces the hand saw, not the carpenter. Powertools build houses faster than hand tools if used right, but can't build good homes by themselves - going faster at sufficient quality is the goal, and learning how to balance these is critical.
 
 ### Dev Expectations
-When I need a full framework, I lean on the [Engineering Ladder](https://www.engineeringladders.com/Developer.html#d4---developer-4) plus the orgs definitions for specifics.
+When I need a full framework, I lean on the [Engineering Ladder](https://www.engineeringladders.com/Developer.html#d4---developer-4) plus the [orgs specific definitions](https://docs.google.com/spreadsheets/d/1qLPYohreoSMk6EBaQdTvrlVihYU0dr9TwUKHdC-jVjc/edit?gid=1278440934#gid=1278440934).
 
-My main signals (not comprehensive, but includes the things I focus on most) per level.
-
-#### Coop - D1
-* You learn rapidly, focused on understanding the team's technology, systems, and processes
-* You engage in all team processes and meetings
-* You reach out quickly when stuck rather than spinning, and maintain the relationships that let you learn by example
-* You seek frequent feedback and treat it as fuel rather than judgment, but are comfortable describing how you like to receive feedback when necessary
-* You see every surprise as an opportunity to tune your sense for future landmines, and share out loud as you discover and validate
-* You understand basic security practices and expectations, are particularly careful before handling customer data, and engage seniors for review when unsure
-
-#### Junior - D2
-* You've mastered the processes and standards of your team, and you're now learning to solve more diverse problems as your understanding of the technology and systems grows
-* You can co-lead projects with a senior mentor, contributing real ownership rather than just executing tasks
-* You proactively surface status and blockers early, so nothing about your work surprises me or your team
-* You understand you primarily work with humans, consistently communicating with respect and empathy and prioritizing team success over individual correctness or glory
-* You write clear, brief PRs and documentation that explains the purpose, context, and impact of the work/process
-* You consistently use unit tests and monitors to deploy safely, and frequently pair with more senior devs to diagnose local and production issues
-* You can create accurate estimates of your work with feedback from senior mentors, and share your learnings to improve future estimates
-
-#### Intermediate - D3
-* You solve any routine technical, process, or system problem in your team at consistently high speed and quality, and you have a structured approach to learning for novel problems
-* You're an expert in a couple of technical areas your team relies on, building up to at least two strong pillars
-* You multiply through mentoring juniors and enforcing the team processes that keep everyone aligned
-* You can describe your teams SLO's and how to measure and monitor them
-* You own smaller projects and technical initiatives end-to-end, leaning on seniors to predict landmines and validate assumptions early and often
-* You're never silently blocked - you've already flagged it and started getting unblocked where you can
-* You own the quality of your own code and features, and protect the team's quality through constructive feedback in reviews
-* You write technical design docs that convey your deep knowledge in writing clearly and iteratively improve designs and plans via feedback and tests
-
-#### Senior - D4
-* You ship plenty, but your sum impact through multiplying others is starting to exceed your solo impact
-* You own systems, not just projects, so you maintain prod health and the tech and processes that contribute to it
-* Proactivity scales past your work, letting you sense landmines in the systems and processes you curate before the team steps too far
-* You curate team processes, owning or delegating, deleting or optimizing, and challenge org-wide ones that don't serve us
-* You know how to deliver large complex projects safely, ensuring availability and performance measures are in place
-* You catch quality, scalability, and security risks at design not implementation, through patterns, reviews, standards, and data
-* You never come to the table with just a problem, but arrive with a recommendation, options, and tradeoffs
-* You translate dense technical decisions and problems into impacts and tradeoffs anyone in the org can understand
-* You can estimate accurately with limited information, qualifying via confidence intervals and specifying what assumptions/dependencies are required to increase confidence
-* You coach and mentor others, identifying where they need to grow and giving them guidance and support to succeed autonomously
-
-#### Staff - D5
-* You spend most of your time multiplying multiple teams, by creating, optimizing, or retiring technology, systems, SLOs, and processes
-* You can still deliver like a senior, but do so far less often because your leverage comes from coaching seniors, evangelizing technologies across your domain, and driving initiatives that require multiple teams to align
-* You sharpen estimates and catch bad decisions, risks, and mistakes much further out, leaving most day-to-day execution to project leads
-* You detect risks and threats from outside the team as well as inside, adjusting processes to prevent recurring issues and address team weaknesses before they compound
-* You ensure projects factor in cross-team impacts and dependencies, and drive forward initiatives that increase the resilience of systems as a whole
-* You translate not just for individuals but for rooms like exec reviews and planning cycles, turning ambiguous strategic problems into options with clear tradeoffs and risk tolerances
-* You ensure past technical decisions are sustained and previously identified landmines are avoided, via automation tooling and process to avoid bottlenecks
-* You maintain a strategic technical vision for your teams, prioritized based on risk reduction, security gaps, and future velocity, and use it to influence team roadmaps
+My own expectations plus the orgs expectations in my own langauge are here:
+* [Coop - D1](./coop-d1.md)
+* [Junior - D2](./junior-d2.md)
+* [Intermediate - D3](./intermediate-d3.md)
+* [Senior - D4](./senior-d4.md)
+* [Staff - D5](./staff-d5.md)
 
 ## Bdons Style
 
