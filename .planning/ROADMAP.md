@@ -28,7 +28,11 @@ Decimal phases appear between their surrounding integers in numeric order.
   2. "My primary evaluation criteria" is marked for promotion to an unmissable position — not buried in a list
   3. The "I depend on frequent signal / hate silence" passage is revised to state explicit stakes (evaluation input, not mere preference)
   4. The "never hold onto an opinion" claim is softened or anchored in a concrete behavioral description (no bare "never")
-**Plans**: TBD
+**Plans**: 4 plans
+  - [ ] 01-01-PLAN.md — Create 01-CONTENT-MAP.md (bullet-level destination map)
+  - [ ] 01-02-PLAN.md — Apply FIX-01 (promote evaluation criteria)
+  - [ ] 01-03-PLAN.md — Apply FIX-02 (disambiguate communication stakes)
+  - [ ] 01-04-PLAN.md — Apply FIX-03 (anchor or soften the never claim)
 
 ### Phase 2: Spoke Files
 **Goal**: Three spoke files exist on disk, each self-contained, holding the right content in Bdon's voice within the specified word budgets
