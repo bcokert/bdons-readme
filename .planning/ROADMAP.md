@@ -77,7 +77,7 @@ Phases execute in numeric order: 1 → 2 → 3 → 4
 
 | Phase | Plans Complete | Status | Completed |
 |-------|----------------|--------|-----------|
-| 1. Content Map and Required Fixes | 0/TBD | Not started | - |
+| 1. Content Map and Required Fixes | 0/4 | Planned | - |
 | 2. Spoke Files | 0/TBD | Not started | - |
 | 3. Hub Restructure and Rename | 0/TBD | Not started | - |
 | 4. Voice and Link Audit | 0/TBD | Not started | - |
