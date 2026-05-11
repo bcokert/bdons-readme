@@ -68,33 +68,35 @@ Explicit exclusions. Documented to prevent scope creep.
 
 ## Traceability
 
-Empty initially. Populated by roadmap creation.
-
 | Requirement | Phase | Status |
 |-------------|-------|--------|
-| HUB-01 | TBD | Pending |
-| HUB-02 | TBD | Pending |
-| HUB-03 | TBD | Pending |
-| HUB-04 | TBD | Pending |
-| HUB-05 | TBD | Pending |
-| HUB-06 | TBD | Pending |
-| SPOKE-01 | TBD | Pending |
-| SPOKE-02 | TBD | Pending |
-| SPOKE-03 | TBD | Pending |
-| SPOKE-04 | TBD | Pending |
-| SPOKE-05 | TBD | Pending |
-| FIX-01 | TBD | Pending |
-| FIX-02 | TBD | Pending |
-| FIX-03 | TBD | Pending |
-| QUAL-01 | TBD | Pending |
-| QUAL-02 | TBD | Pending |
-| QUAL-03 | TBD | Pending |
+| HUB-01 | Phase 3 | Pending |
+| HUB-02 | Phase 3 | Pending |
+| HUB-03 | Phase 3 | Pending |
+| HUB-04 | Phase 3 | Pending |
+| HUB-05 | Phase 3 | Pending |
+| HUB-06 | Phase 3 | Pending |
+| SPOKE-01 | Phase 2 | Pending |
+| SPOKE-02 | Phase 2 | Pending |
+| SPOKE-03 | Phase 2 | Pending |
+| SPOKE-04 | Phase 2 | Pending |
+| SPOKE-05 | Phase 2 | Pending |
+| FIX-01 | Phase 1 | Pending |
+| FIX-02 | Phase 1 | Pending |
+| FIX-03 | Phase 1 | Pending |
+| QUAL-01 | Phase 4 | Pending |
+| QUAL-02 | Phase 4 | Pending |
+| QUAL-03 | Phase 4 | Pending |
 
 **Coverage:**
 - v1 requirements: 17 total
-- Mapped to phases: 0 (pre-roadmap)
-- Unmapped: 17 (will be 0 after roadmap)
+- Mapped to phases: 17
+- Unmapped: 0
+
+**Coverage notes:**
+
+SPOKE-01 as written refers to `values.md` as a separate spoke file. Research (SUMMARY.md, ARCHITECTURE.md) is explicit that `values.md` is out of scope in v1 — values equations stay inline on the hub, no body of explanation exists to justify a file. SPOKE-01 is mapped to Phase 2 to be addressed; during planning, this requirement should be reconciled: either the scope of SPOKE-01 is revised to align with the research recommendation (values inline, no values.md), or a decision is logged to create values.md with body content. HUB-05 similarly lists `values.md` as a spoke link — if `values.md` is not created, this requirement will need updating.
 
 ---
 *Requirements defined: 2026-05-11*
-*Last updated: 2026-05-11 after initial definition*
+*Last updated: 2026-05-11 after roadmap creation (traceability populated)*
