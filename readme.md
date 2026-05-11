@@ -37,7 +37,7 @@ $$\text{Team Net Impact} = \text{Autonomy} \cdot \int (\text{Capability} \cdot \
 ### Dev Expectations
 When I need a full framework, I lean on the [Engineering Ladder](https://www.engineeringladders.com/Developer.html#d4---developer-4) plus the [orgs specific definitions](https://docs.google.com/spreadsheets/d/1qLPYohreoSMk6EBaQdTvrlVihYU0dr9TwUKHdC-jVjc/edit?gid=1278440934#gid=1278440934).
 
-My own expectations plus the orgs expectations in my own langauge are here:
+I've integrated by own expectations with Vidyard's in my own language here:
 * [Coop - D1](./coop-d1.md)
 * [Junior - D2](./junior-d2.md)
 * [Intermediate - D3](./intermediate-d3.md)
