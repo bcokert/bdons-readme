@@ -26,7 +26,7 @@
 
 - [ ] **FIX-01**: "Primary evaluation criteria" surfaced to an unmissable position — promoted out of the third-bullet-in-a-list slot it currently occupies
 - [ ] **FIX-02**: "I depend on frequent signal / hate silence" reframed so stakes are explicit (evaluation input vs. personal preference) — readers shouldn't have to guess what's actually being asked of them
-- [ ] **FIX-03**: "I never hold onto an opinion simply because it was mine before" anchored in behavior or softened — "never" is a liability claim that will be tested against observed behavior
+- [~] **FIX-03**: ~~"I never hold onto an opinion simply because it was mine before" anchored in behavior or softened~~ — **Withdrawn 2026-05-12.** Bdon's call: the Flexibility bullet is fine as-is. Phase 4 QUAL-02 audit will surface this line again if needed in context with other trust-claim findings.
 
 ### Quality
 
@@ -83,15 +83,16 @@ Explicit exclusions. Documented to prevent scope creep.
 | SPOKE-05 | Phase 2 | Pending |
 | FIX-01 | Phase 1 | Pending |
 | FIX-02 | Phase 1 | Pending |
-| FIX-03 | Phase 1 | Pending |
+| FIX-03 | Phase 1 | Withdrawn (2026-05-12) |
 | QUAL-01 | Phase 4 | Pending |
 | QUAL-02 | Phase 4 | Pending |
 | QUAL-03 | Phase 4 | Pending |
 
 **Coverage:**
-- v1 requirements: 17 total
+- v1 requirements: 17 total (1 withdrawn 2026-05-12)
 - Mapped to phases: 17
 - Unmapped: 0
+- Active: 16
 
 **Coverage notes:**
 
