@@ -24,13 +24,15 @@ $$\text{Team Net Impact} = \text{Autonomy} \cdot \int (\text{Capability} \cdot \
 
 ## Work
 
+### How I Evaluate You
+
+**Proactivity & Ownership.** This determines how much you're trusted to take on and thus how much impact you can create in your role.
+
 ### General Expectations
 
 **Test when Reversible, Analyze Otherwise**: Don't analyze what can be more quickly learned by testing - if you can easily undo/retry a decision, decide asap.
 
 **Work Out Loud with Intent, not Permission**: Create the best plan you can with what you know, share it out loud to enable feedback, and set a time limit for said feedback before before you take action.
-
-**Prioritize Proactivity & Ownership**: My primary evaluation criteria. This determines how much you're trusted to take on and thus how much impact you can create in your role.
 
 **Treat AI as a Powertool**: AI replaces the hand saw, not the carpenter. Powertools build houses faster than hand tools if used right, but can't build good homes by themselves - going faster at sufficient quality is the goal, and learning how to balance these is critical.
 
