@@ -13,7 +13,7 @@ Structural surgery on a flat readme: extract content into three spoke files, wri
 Decimal phases appear between their surrounding integers in numeric order.
 
 - [x] **Phase 1: Content Map and Required Fixes** - Resolve taxonomy decisions and apply the three flagged content fixes before any content moves
-- [ ] **Phase 2: Spoke Files** - Create `work.md`, `style.md`, and `playbooks.md` with content ported and expanded from the current readme
+- [x] **Phase 2: Spoke Files** - Create `work.md`, `style.md`, and `playbooks.md` with content ported and expanded from the current readme
 - [ ] **Phase 3: Hub Restructure and Rename** - Restructure `readme.md` into the one-page hub and rename to `README.md`
 - [ ] **Phase 4: Voice and Link Audit** - Verify voice preservation, link integrity, and the hub standalone test
 
@@ -45,10 +45,10 @@ Decimal phases appear between their surrounding integers in numeric order.
   4. Each spoke file opens with a one-sentence orientation and closes with a back-link to `README.md`
   5. Each playbook in `playbooks.md` answers at least one concrete behavioral question (e.g., "how will I know how I'm doing before review?", "how does a decision get reversed?")
 **Plans**: 4 plans
-  - [ ] 02-01-PLAN.md — Patch SPOKE-01, HUB-05, and Phase 2 SC1-3 (scaffold acknowledgment)
-  - [ ] 02-02-PLAN.md — Create `work.md` (port + 4 expansion placeholders)
-  - [ ] 02-03-PLAN.md — Create `style.md` (near-pure port)
-  - [ ] 02-04-PLAN.md — Create `playbooks.md` (scaffold for 4 playbooks)
+  - [x] 02-01-PLAN.md — Patch SPOKE-01, HUB-05, and Phase 2 SC1-3 (scaffold acknowledgment)
+  - [x] 02-02-PLAN.md — Create `work.md` (port + 4 expansion placeholders)
+  - [x] 02-03-PLAN.md — Create `style.md` (near-pure port)
+  - [x] 02-04-PLAN.md — Create `playbooks.md` (scaffold for 4 playbooks)
 
 ### Phase 3: Hub Restructure and Rename
 **Goal**: `readme.md` is renamed to `README.md` and restructured into a one-page hub: identity and values equations inline, four information-scent link blocks pointing to spokes, Dev Expectations block linking D1–D5 with teases, and a "last reviewed" date
@@ -82,6 +82,6 @@ Phases execute in numeric order: 1 → 2 → 3 → 4
 | Phase | Plans Complete | Status | Completed |
 |-------|----------------|--------|-----------|
 | 1. Content Map and Required Fixes | 3/3 (1 cancelled) | Complete | 2026-05-12 |
-| 2. Spoke Files | 0/4 | Not started | - |
+| 2. Spoke Files | 4/4 | Complete (scaffold ships; copy is post-Phase-2 Bdon-authored) | 2026-05-14 |
 | 3. Hub Restructure and Rename | 0/TBD | Not started | - |
 | 4. Voice and Link Audit | 0/TBD | Not started | - |
