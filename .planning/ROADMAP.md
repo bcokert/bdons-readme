@@ -74,7 +74,9 @@ Decimal phases appear between their surrounding integers in numeric order.
   2. Trust-claim audit passes: a search for "always," "never," "love," "hate," "I will" across all files yields zero unanchored aspirational claims (each surviving match has a behavioral description attached)
   3. Hub standalone test passes: covering all spoke links, a reader can identify Bdon's identity, values, and the categories of his operating mechanics from the hub alone — without clicking
   4. Voice read-aloud test passes on each spoke file: terse, deadpan, structured, no warmup, no inflation, no HR-coded language; distinctive markers ("my memory is shit," equations) intact
-**Plans**: TBD
+**Plans**: 2 plans
+  - [ ] 04-01-PLAN.md — Run automated audit (link / trust-claim / voice / carryforward) → checkpoint for Bdon dispositions → apply approved atomic fix-commits → hub-standalone test
+  - [ ] 04-02-PLAN.md — Patch REQUIREMENTS.md + PROJECT.md (QUAL-01..03 -> Complete; QUAL-02 Active -> Validated; Phase 4 Key Decisions row)
 
 ## Progress
 
@@ -86,4 +88,4 @@ Phases execute in numeric order: 1 → 2 → 3 → 4
 | 1. Content Map and Required Fixes | 3/3 (1 cancelled) | Complete | 2026-05-12 |
 | 2. Spoke Files | 4/4 | Complete (scaffold ships; copy is post-Phase-2 Bdon-authored) | 2026-05-14 |
 | 3. Hub Restructure and Rename | 0/TBD | Not started | - |
-| 4. Voice and Link Audit | 0/TBD | Not started | - |
+| 4. Voice and Link Audit | 0/2 | Not started | - |
