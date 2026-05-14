@@ -1,6 +1,6 @@
-_How I give and receive feedback, communicate on Slack, and prefer to learn._
+# Style
 
-## Bdons Style
+_How I give and receive feedback, communicate on Slack, and prefer to learn._
 
 ### Feedback and Performance
 * Giving Feedback - I generally share in the moment or right after while the memory is fresh. What behaviour you did -> what impact it had and why -> Coaching if needed -> outcome if no change happens (for serious stuff)
@@ -13,7 +13,7 @@ _How I give and receive feedback, communicate on Slack, and prefer to learn._
 * I love teaching, and tend towards analogies and metaphors to clarify, especially with non technical recipients
 
 ### Learning and Memory
-* I learn via testing and experimenting, failure is a signal to improve future iterations. I'll often do something manually the first time to really undrestand it, then apply automation/reusability afterwards for efficiency
+* I learn via testing and experimenting, failure is a signal to improve future iterations. I'll often do something manually the first time to really understand it, then apply automation/reusability afterwards for efficiency
 * My memory is shit for isolated facts - I need to connect things in a graph of understanding or make it visual to retain, and I lean on visual communication wherever possible when aligning people
 
 ← [Back to readme](./README.md)

@@ -8,7 +8,7 @@ _Working philosophy, values, and management mechanics — written so you can get
 Learning -> Freedom -> Adaptability -> Calm
 * Learning and Teaching: my primary source of fun and mental health, whether at work or play
 * Freedom: the purpose of money and health is the freedom to do what you want when you want
-* Adaptability: I prefer apapting over resisting, and all my opinions are loosely held
+* Adaptability: I prefer adapting over resisting, and all my opinions are loosely held
 * Calm, No Drama: I hate pointless stress, and filter processes and behaviours to maintain it
 
 ### My Priorities summed up
