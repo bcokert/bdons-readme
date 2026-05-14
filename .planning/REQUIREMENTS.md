@@ -11,12 +11,12 @@
 - [ ] **HUB-02**: Hub fits on one screen — ≤380 words / ≤55 rendered lines on default GitHub render
 - [ ] **HUB-03**: Hub opens with identity content + the Autonomy × ∫(Capability × Confidence) equation inline (orientation data, not a link)
 - [ ] **HUB-04**: Hub uses information-scent link blocks for each spoke: bold title + one-line tease naming the specific questions that spoke answers (no title-only links)
-- [ ] **HUB-05**: Hub links to all 4 spokes (`values.md`, `work.md`, `style.md`, `playbooks.md`) plus the D1–D5 dev-level block
+- [ ] **HUB-05**: Hub links to all 3 spokes (`work.md`, `style.md`, `playbooks.md`) plus the D1–D5 dev-level block
 - [ ] **HUB-06**: Hub has a "last reviewed" date so staleness is visible
 
 ### Spoke Files
 
-- [ ] **SPOKE-01**: `values.md` exists — holds Values, Priorities, and Career content lifted from current readme; sub-topics inline, in Bdon's voice
+- [ ] **SPOKE-01**: Values, Priorities, and Career content kept inline on the hub (no separate `values.md`); content rationale recorded in 01-CONTENT-MAP.md and ARCHITECTURE.md File Map
 - [ ] **SPOKE-02**: `work.md` exists — holds general work philosophy (test-when-reversible, work-out-loud, proactivity, AI-as-powertool) plus the Dev Expectations link block to D1–D5
 - [ ] **SPOKE-03**: `style.md` exists — holds Feedback, Communication, and Learning sub-sections inline, in Bdon's voice
 - [ ] **SPOKE-04**: `playbooks.md` exists — holds Evaluate / Delegate / 1:1s / Decisions playbooks, written from scratch in Bdon's voice
@@ -96,7 +96,7 @@ Explicit exclusions. Documented to prevent scope creep.
 
 **Coverage notes:**
 
-SPOKE-01 as written refers to `values.md` as a separate spoke file. Research (SUMMARY.md, ARCHITECTURE.md) is explicit that `values.md` is out of scope in v1 — values equations stay inline on the hub, no body of explanation exists to justify a file. SPOKE-01 is mapped to Phase 2 to be addressed; during planning, this requirement should be reconciled: either the scope of SPOKE-01 is revised to align with the research recommendation (values inline, no values.md), or a decision is logged to create values.md with body content. HUB-05 similarly lists `values.md` as a spoke link — if `values.md` is not created, this requirement will need updating.
+SPOKE-01 and HUB-05 were reconciled with the research recommendation in Phase 2 plan 02-01 (2026-05-14): `values.md` is not created in v1; values equations stay inline on the hub. SPOKE-01 now describes the inline-on-hub disposition; HUB-05 now lists 3 spokes (work.md, style.md, playbooks.md) plus the D1–D5 block. See 02-CONTEXT.md D-03, D-23, D-24.
 
 ---
 *Requirements defined: 2026-05-11*

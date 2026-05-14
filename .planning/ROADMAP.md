@@ -39,9 +39,9 @@ Decimal phases appear between their surrounding integers in numeric order.
 **Depends on**: Phase 1
 **Requirements**: SPOKE-01, SPOKE-02, SPOKE-03, SPOKE-04, SPOKE-05
 **Success Criteria** (what must be TRUE):
-  1. `work.md` exists and holds all four operating principles (Test-when-Reversible, Work-Out-Loud, Proactivity/Ownership, AI-as-Powertool) with concrete behaviors, the Dev Expectations link block to D1–D5, and evaluation criteria in a findable position; 400–600 words
-  2. `style.md` exists and holds Feedback (giving + receiving), Communication/Slack, and Learning/Memory sub-sections inline; 300–450 words
-  3. `playbooks.md` exists and holds four titled playbooks (Evaluate, Delegate, 1:1s, Decisions), each describing Bdon's specific mechanics — what he does, in what order, with what outputs — not just philosophy; 600–900 words
+  1. `work.md` exists and holds all four operating principles (Test-when-Reversible, Work-Out-Loud, Proactivity/Ownership, AI-as-Powertool) with concrete behaviors, the Dev Expectations link block to D1–D5, and evaluation criteria in a findable position; 400–600 words (word range applies after Bdon writes the copy; Phase 2 ships scaffold + port only)
+  2. `style.md` exists and holds Feedback (giving + receiving), Communication/Slack, and Learning/Memory sub-sections inline; 300–450 words (word range applies after Bdon writes the copy; Phase 2 ships scaffold + port only)
+  3. `playbooks.md` exists and holds four titled playbooks (Evaluate, Delegate, 1:1s, Decisions), each describing Bdon's specific mechanics — what he does, in what order, with what outputs — not just philosophy; 600–900 words (word range applies after Bdon writes the copy; Phase 2 ships scaffold + port only)
   4. Each spoke file opens with a one-sentence orientation and closes with a back-link to `README.md`
   5. Each playbook in `playbooks.md` answers at least one concrete behavioral question (e.g., "how will I know how I'm doing before review?", "how does a decision get reversed?")
 **Plans**: 4 plans
