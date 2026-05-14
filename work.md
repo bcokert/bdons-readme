@@ -1,4 +1,4 @@
-_How I evaluate you, the four operating principles, and the dev ladder._
+_How I evaluate peeps, myt four general principles, and specific role expectations._
 
 ## Work
 
