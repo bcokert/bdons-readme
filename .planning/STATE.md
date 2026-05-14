@@ -3,9 +3,9 @@ gsd_state_version: 1.0
 milestone: v1.0
 milestone_name: milestone
 status: ready_to_plan
-stopped_at: Phase 2 complete; ready to plan Phase 3
-last_updated: "2026-05-14T16:56:01.009Z"
-last_activity: 2026-05-14 -- Phase 03 execution started
+stopped_at: Phase 3 complete; ready to plan Phase 4
+last_updated: "2026-05-14T17:10:00.000Z"
+last_activity: 2026-05-14 -- Phase 03 complete; ready to plan Phase 4
 progress:
   total_phases: 4
   completed_phases: 3
@@ -18,20 +18,20 @@ progress:
 
 ## Project Reference
 
-See: .planning/PROJECT.md (updated 2026-05-10)
+See: .planning/PROJECT.md (updated 2026-05-14)
 
 **Core value:** Devs new to working with Bdon get the gist in one page — and can drill in on any topic when they need it — without him having to be in the room.
-**Current focus:** Phase 03 — hub-restructure-and-rename
+**Current focus:** Phase 04 — voice-and-link-audit
 
 ## Current Position
 
 Phase: 4
 Plan: Not started
-Next: Phase 3 — Hub Restructure and Rename (`readme.md` → `README.md`, hub-as-orientation-layer)
+Next: Phase 4 — Voice and Link Audit (verify voice, trust-claim audit, link integrity, hub-standalone test)
 Status: Ready to plan
 Last activity: 2026-05-14
 
-Progress: [█████░░░░░] 50%
+Progress: [████████████████████] 10/9 plans (100%)
 
 ## Performance Metrics
 
@@ -70,6 +70,7 @@ Recent decisions affecting current work:
 - 2026-05-12: FIX-02 Option B (preference framing) applied and trimmed by Bdon — `* Communication and Slack - I work best with frequent visible signal (positive, negative, "got it").` Section heading carries the preference framing; defensive hedge phrases were cut.
 - 2026-05-14: SPOKE-01 and HUB-05 patched (no `values.md`); ROADMAP Phase 2 SC1/SC2/SC3 acknowledge scaffold-ships-Phase-2.
 - 2026-05-14: Phase 2 spoke files shipped as port + scaffold: `work.md` (275w, 4 expansion placeholders), `style.md` (252w, near-pure port), `playbooks.md` (229w, pure scaffold). Bdon authors expansion copy + playbook bodies post-Phase-2 outside the GSD workflow.
+- 2026-05-14: Phase 3 shipped: hub restructured to 316w/48L (under 380w/55L budget), equation converted from LaTeX `$$...$$` to inline-code Unicode form (blocker resolved), `readme.md` renamed to `README.md` via `git mv` (R100, history preserved), spoke back-links updated to `./README.md`, HUB-01..HUB-06 marked Complete in REQUIREMENTS.md.
 
 ### Pending Todos
 
@@ -77,7 +78,8 @@ None yet.
 
 ### Blockers/Concerns
 
-- Equation render: `$$\text{Team Net Impact}$$` — STACK.md flags LaTeX math as unreliable in plain README context. Test before Phase 3. If it doesn't render, decide on conversion path (prose or alternative notation) before restructuring the hub around it.
+- (none) — Phase 3 resolved the equation render blocker by converting `$$...$$` to inline-code Unicode form.
+- ⚠ [Phase 4] Code review (03-REVIEW.md) surfaced 4 warnings + 6 info — typos in the ported Values block on the hub (`apapting`, `myt`, `before before`, `undrestand`) and missing H1s on spoke files. All Phase 4 (QUAL-02 voice / typo audit) territory.
 
 ## Deferred Items
 
@@ -90,6 +92,6 @@ None yet.
 
 ## Session Continuity
 
-Last session: 2026-05-14T16:13:59.379Z
-Stopped at: Phase 2 complete; ready to plan Phase 3
-Resume file: .planning/ROADMAP.md (Phase 3: Hub Restructure and Rename)
+Last session: 2026-05-14T17:10:00.000Z
+Stopped at: Phase 3 complete; ready to plan Phase 4
+Resume file: None
