@@ -1,6 +1,6 @@
-_How I run evaluations, delegate, structure 1:1s, and make decisions._
+# Playbooks
 
-## Playbooks
+_How I run evaluations, delegate, structure 1:1s, and make decisions._
 
 ### Evaluate
 
