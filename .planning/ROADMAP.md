@@ -61,7 +61,9 @@ Decimal phases appear between their surrounding integers in numeric order.
   4. Each of the four spoke links uses the title + italic-tease pattern (`**[Title →](./file.md)**` / `_one sentence_`); no title-only links
   5. All five D1–D5 links are present, each with a one-line tease identifying the level; hub links to all four spokes and the D-file block
   6. A visible "last reviewed: YYYY-MM-DD" line appears on the hub
-**Plans**: TBD
+**Plans**: 2 plans
+  - [ ] 03-01-PLAN.md — Restructure readme.md content into the one-page hub layout (identity + equation + 4 info-scent link blocks + last-reviewed)
+  - [ ] 03-02-PLAN.md — git mv readme.md to README.md, update spoke back-links, check off HUB-01..HUB-06 in REQUIREMENTS.md
 
 ### Phase 4: Voice and Link Audit
 **Goal**: All files pass voice preservation, trust-claim, hub-standalone, and link-integrity checks before the doc is used in onboarding
