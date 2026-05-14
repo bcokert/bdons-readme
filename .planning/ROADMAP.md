@@ -44,7 +44,11 @@ Decimal phases appear between their surrounding integers in numeric order.
   3. `playbooks.md` exists and holds four titled playbooks (Evaluate, Delegate, 1:1s, Decisions), each describing Bdon's specific mechanics — what he does, in what order, with what outputs — not just philosophy; 600–900 words
   4. Each spoke file opens with a one-sentence orientation and closes with a back-link to `README.md`
   5. Each playbook in `playbooks.md` answers at least one concrete behavioral question (e.g., "how will I know how I'm doing before review?", "how does a decision get reversed?")
-**Plans**: TBD
+**Plans**: 4 plans
+  - [ ] 02-01-PLAN.md — Patch SPOKE-01, HUB-05, and Phase 2 SC1-3 (scaffold acknowledgment)
+  - [ ] 02-02-PLAN.md — Create `work.md` (port + 4 expansion placeholders)
+  - [ ] 02-03-PLAN.md — Create `style.md` (near-pure port)
+  - [ ] 02-04-PLAN.md — Create `playbooks.md` (scaffold for 4 playbooks)
 
 ### Phase 3: Hub Restructure and Rename
 **Goal**: `readme.md` is renamed to `README.md` and restructured into a one-page hub: identity and values equations inline, four information-scent link blocks pointing to spokes, Dev Expectations block linking D1–D5 with teases, and a "last reviewed" date
@@ -78,6 +82,6 @@ Phases execute in numeric order: 1 → 2 → 3 → 4
 | Phase | Plans Complete | Status | Completed |
 |-------|----------------|--------|-----------|
 | 1. Content Map and Required Fixes | 3/3 (1 cancelled) | Complete | 2026-05-12 |
-| 2. Spoke Files | 0/TBD | Not started | - |
+| 2. Spoke Files | 0/4 | Not started | - |
 | 3. Hub Restructure and Rename | 0/TBD | Not started | - |
 | 4. Voice and Link Audit | 0/TBD | Not started | - |
