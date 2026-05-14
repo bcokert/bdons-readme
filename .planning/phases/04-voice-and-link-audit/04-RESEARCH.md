@@ -728,21 +728,21 @@ Co-Authored-By: Claude Opus 4.7 (1M context) <noreply@anthropic.com>"
 
 **If any of these turn out to be wrong, the impact is contained.** All assumptions either (a) get a deferred-decision audit row by default so Bdon catches them at checkpoint, or (b) only affect a non-binding optimization.
 
-## Open Questions
+## Open Questions (RESOLVED — routed to Task 2 checkpoint per D-04-13 and D-04-04)
 
-These are the gaps research can't resolve mechanically — they require Bdon's judgment at the Task 2 checkpoint. All are noted in `04-AUDIT.md` row templates as `defer-decision-for-Bdon`:
+These are the gaps research can't resolve mechanically — they require Bdon's judgment at the Task 2 checkpoint. All are noted in `04-AUDIT.md` row templates as `defer-decision-for-Bdon`. **Each question below has been RESOLVED by routing it to the Task 2 checkpoint** — research declines to pre-decide a voice-sensitive judgment call. The substance of each question remains the agenda Bdon walks at the checkpoint.
 
-1. **Flexibility line in `style.md:12`** — FIX-03 was withdrawn 2026-05-12 with rationale "Bdon's call: the Flexibility bullet is fine as-is. Phase 4 QUAL-02 will revisit in context." This is the moment. Options: (a) preserve, (b) anchor with behavioral example, (c) soften per FIX-03 original spec. All three documented in "Behaviorally Anchored — Concrete Templates."
+1. **Flexibility line in `style.md:12`** — FIX-03 was withdrawn 2026-05-12 with rationale "Bdon's call: the Flexibility bullet is fine as-is. Phase 4 QUAL-02 will revisit in context." This is the moment. Options: (a) preserve, (b) anchor with behavioral example, (c) soften per FIX-03 original spec. All three documented in "Behaviorally Anchored — Concrete Templates." **RESOLVED:** Routed to Task 2 checkpoint per D-04-13 as `defer-decision-for-Bdon` row F-01 / T-01 in `04-AUDIT.md`. Research provides three concrete template options; Bdon picks at checkpoint.
 
-2. **`## Bdons Style` heading (C-06)** — Voice marker or grammatical correctness? Resolved by C-01 H1-promotion in most likely path, but Bdon picks.
+2. **`## Bdons Style` heading (C-06)** — Voice marker or grammatical correctness? Resolved by C-01 H1-promotion in most likely path, but Bdon picks. **RESOLVED:** Routed to Task 2 checkpoint per D-04-13 as `defer-decision-for-Bdon` row C-06 in `04-AUDIT.md`. The H1-promotion path (most likely default per A5) is the recommended option; Bdon confirms or overrides.
 
-3. **Power-asymmetry one-line acknowledgment (C-11)** — PITFALLS Pitfall 2 LOW severity. Template in "Behaviorally Anchored — Concrete Templates" → "Acknowledge the asymmetry" row. Adds ~30 words to `style.md` if accepted; bumps style.md from 252w to ~280w (still well under any limit).
+3. **Power-asymmetry one-line acknowledgment (C-11)** — PITFALLS Pitfall 2 LOW severity. Template in "Behaviorally Anchored — Concrete Templates" → "Acknowledge the asymmetry" row. Adds ~30 words to `style.md` if accepted; bumps style.md from 252w to ~280w (still well under any limit). **RESOLVED:** Routed to Task 2 checkpoint per D-04-04 as `defer-decision-for-Bdon` row C-11 in `04-AUDIT.md`. Research provides the one-line template; Bdon picks fix-now (apply template) or defer-to-v2.
 
-4. **Redundant `Dev Expectations →` link (C-09 / IN-05)** — Differentiate visually, or accept the by-design redundancy. Both valid; HUB-04/HUB-05 don't constrain this.
+4. **Redundant `Dev Expectations →` link (C-09 / IN-05)** — Differentiate visually, or accept the by-design redundancy. Both valid; HUB-04/HUB-05 don't constrain this. **RESOLVED:** Routed to Task 2 checkpoint per D-04-13 as `defer-decision-for-Bdon` row C-09 in `04-AUDIT.md`. Both options preserve HUB-04/HUB-05; Bdon picks visual differentiation tease or accept-as-is.
 
-5. **British vs American spelling (A6)** — `behaviours` appears 2x in `style.md`. Not in the typo list; could be intentional. If Bdon picks "Americanize", easy fix; if "leave it", trivial `no-action`.
+5. **British vs American spelling (A6)** — `behaviours` appears 2x in `style.md`. Not in the typo list; could be intentional. If Bdon picks "Americanize", easy fix; if "leave it", trivial `no-action`. **RESOLVED:** Routed to Task 2 checkpoint as `defer-decision-for-Bdon` row A6 in `04-AUDIT.md`. Neither option blocks Phase 4 ship; Bdon picks at walkthrough.
 
-6. **`orgs specific` apostrophe (C-07)** — Less judgmental than the others. CONTEXT.md D-04-13 marks it `defer-decision`; research notes it could reasonably be `fix-now` since the apostrophe is unambiguous in possessive context. Bdon picks.
+6. **`orgs specific` apostrophe (C-07)** — Less judgmental than the others. CONTEXT.md D-04-13 marks it `defer-decision`; research notes it could reasonably be `fix-now` since the apostrophe is unambiguous in possessive context. Bdon picks. **RESOLVED:** Routed to Task 2 checkpoint per D-04-13 as `defer-decision-for-Bdon` row C-07 in `04-AUDIT.md`. Recommendation: fix-now (apostrophe is mechanically unambiguous); Bdon confirms or defers.
 
 ## Sources
 
