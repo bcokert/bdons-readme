@@ -1,6 +1,6 @@
-_How I evaluate peeps, myt four general principles, and specific role expectations._
+# Work
 
-## Work
+_How I evaluate peeps, my four general principles, and specific role expectations._
 
 ### How I Evaluate You
 
@@ -14,7 +14,7 @@ _[placeholder: 2–3 concrete behaviors — what proactivity & ownership looks l
 
 _[placeholder: 2–3 concrete behaviors — what test-when-reversible looks like in practice. What failure looks like.]_
 
-**Work Out Loud with Intent, not Permission**: Create the best plan you can with what you know, share it out loud to enable feedback, and set a time limit for said feedback before before you take action.
+**Work Out Loud with Intent, not Permission**: Create the best plan you can with what you know, share it out loud to enable feedback, and set a time limit for said feedback before you take action.
 
 _[placeholder: 2–3 concrete behaviors — what working out loud with intent looks like. What failure looks like.]_
 
