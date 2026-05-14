@@ -75,7 +75,7 @@ Decimal phases appear between their surrounding integers in numeric order.
   3. Hub standalone test passes: covering all spoke links, a reader can identify Bdon's identity, values, and the categories of his operating mechanics from the hub alone — without clicking
   4. Voice read-aloud test passes on each spoke file: terse, deadpan, structured, no warmup, no inflation, no HR-coded language; distinctive markers ("my memory is shit," equations) intact
 **Plans**: 2 plans
-  - [ ] 04-01-PLAN.md — Run automated audit (link / trust-claim / voice / carryforward) → checkpoint for Bdon dispositions → apply approved atomic fix-commits → hub-standalone test
+  - [x] 04-01-PLAN.md — Run automated audit (link / trust-claim / voice / carryforward) → checkpoint for Bdon dispositions → apply approved atomic fix-commits → hub-standalone test
   - [ ] 04-02-PLAN.md — Patch REQUIREMENTS.md + PROJECT.md (QUAL-01..03 -> Complete; QUAL-02 Active -> Validated; Phase 4 Key Decisions row)
 
 ## Progress
