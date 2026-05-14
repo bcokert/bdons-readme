@@ -16,11 +16,11 @@ Devs new to working with Bdon get the gist in one page — and can drill in on a
 - [x] Existing content (work philosophy, style) lifted out of the hub into per-category files — *Validated in Phase 2 (Spoke Files) and Phase 3; values stay inline per D-03*
 - [x] Existing Dev Levels block (D1–D5) preserved and integrated cleanly into the new hub — *Validated in Phase 3 (five D-level links with level teases on the hub; canonical block in `work.md#dev-expectations`)*
 - [x] Hub fits on one screen / one printed page when read top-to-bottom — *Validated in Phase 3 (316w / 48L, under the 380w / 55L budget)*
+- [x] Voice preserved across all files: terse, deadpan, structured, no warmup, no inflation — *Validated in Phase 4 (Voice and Link Audit) — see 04-AUDIT.md*
 
 ### Active
 
 - [ ] `playbooks.md` copy drafted, holding Evaluate / Delegate / 1:1s / Decisions inline, in Bdon's voice (Phase 2 shipped scaffold + placeholders; Bdon-authored copy still pending)
-- [ ] Voice preserved across all files: terse, deadpan, structured, no warmup, no inflation (Phase 4 audit — QUAL-02)
 
 ### Out of Scope
 
@@ -57,6 +57,7 @@ Devs new to working with Bdon get the gist in one page — and can drill in on a
 | 4 playbooks in v1: Evaluate, Delegate, 1:1s, Decisions | Bdon-named priorities; covers the current manager-mechanics gap | Scaffold validated — Phase 2; copy pending |
 | Values stay inline on the hub (no `values.md` spoke) | Decided in Phase 2 discussion (D-03); values are short and identity-shaping, belong on the orientation layer | Validated — Phase 3 |
 | Equation in inline-code Unicode form, not LaTeX `$$...$$` | GFM math rendering is unreliable in plain README context | Validated — Phase 3 |
+| Phase 4 audit ship (2026-05-14): 6 atomic fix-commits for Phase 3 03-REVIEW.md carryforward (WR-01..04 spoke H1s + typos; IN-01..02 typos + apostrophe via H1-promote); QUAL-01 / QUAL-02 / QUAL-03 → Complete | Auto-approved disposition matrix from 04-AUDIT.md applied: C-01..C-05 fix-now; C-06 IN-02 resolved via C-01 H1-promote; C-07 (orgs→org's), C-09 (redundant Dev Expectations link), C-11 (power-asymmetry one-liner), F-01 (Flexibility line), A6 (British spelling) deferred for Bdon post-Phase-4 manual or v2; T-02..T-04 marked no-action (already behavior-anchored / D-04-11 protected markers). Hub-standalone QUAL-03 test passed all 5 bullets | Validated — Phase 4 (see 04-AUDIT.md for full disposition log) |
 
 ## Evolution
 
@@ -76,4 +77,4 @@ This document evolves at phase transitions and milestone boundaries.
 4. Update Context with current state
 
 ---
-*Last updated: 2026-05-14 after Phase 3 (Hub Restructure and Rename) completion*
+*Last updated: 2026-05-14 after Phase 4 (Voice and Link Audit) completion*

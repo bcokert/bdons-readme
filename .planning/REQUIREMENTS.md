@@ -30,9 +30,9 @@
 
 ### Quality
 
-- [ ] **QUAL-01**: All cross-file links resolve — no broken links across hub, spokes, and D-files
-- [ ] **QUAL-02**: Voice preserved across all files — terse, deadpan, structured, no warmup, no inflation, no HR-coded language; no aspirational claims unanchored in behavior
-- [ ] **QUAL-03**: Hub standalone test passes — a reader can grasp Bdon's identity + the *categories* of his operating mechanics from the hub alone, without clicking any link
+- [x] **QUAL-01**: All cross-file links resolve — no broken links across hub, spokes, and D-files
+- [x] **QUAL-02**: Voice preserved across all files — terse, deadpan, structured, no warmup, no inflation, no HR-coded language; no aspirational claims unanchored in behavior
+- [x] **QUAL-03**: Hub standalone test passes — a reader can grasp Bdon's identity + the *categories* of his operating mechanics from the hub alone, without clicking any link
 
 ## v2 Requirements
 
@@ -84,9 +84,9 @@ Explicit exclusions. Documented to prevent scope creep.
 | FIX-01 | Phase 1 | Pending |
 | FIX-02 | Phase 1 | Pending |
 | FIX-03 | Phase 1 | Withdrawn (2026-05-12) |
-| QUAL-01 | Phase 4 | Pending |
-| QUAL-02 | Phase 4 | Pending |
-| QUAL-03 | Phase 4 | Pending |
+| QUAL-01 | Phase 4 | Complete |
+| QUAL-02 | Phase 4 | Complete |
+| QUAL-03 | Phase 4 | Complete |
 
 **Coverage:**
 - v1 requirements: 17 total (1 withdrawn 2026-05-12)
@@ -100,4 +100,4 @@ SPOKE-01 and HUB-05 were reconciled with the research recommendation in Phase 2 
 
 ---
 *Requirements defined: 2026-05-11*
-*Last updated: 2026-05-14 — HUB-01..HUB-06 marked complete after Phase 3 ship*
+*Last updated: 2026-05-14 — QUAL-01..QUAL-03 marked complete after Phase 4 audit ship*
