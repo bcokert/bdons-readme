@@ -97,11 +97,27 @@ The scaffold is mostly placeholders (excluded per D-29). The orientation italic 
 
 ## Hub Standalone Test — Reader Summary
 
-_(POST-FIX — populated in Task 4 per D-04-14. Placeholder here for now.)_
+_Read from `README.md` only (post-fix shipped state, 2026-05-14). 5 bullets per D-04-14._
 
-### Bdon disposition (recorded in Task 5)
+- **Identity** — Bdon is a manager whose readme captures his working philosophy, values, and management mechanics — written so a direct report can get the gist in one page and drill in when they need to. He frames himself as "more of a how guy than an ideas guy" who makes people more capable and confident, and teams more autonomous.
+- **Values and priorities** — Two arrow chains. Values: `Learning -> Freedom -> Adaptability -> Calm` (learning and teaching is his primary source of fun and mental health; freedom is the purpose of money and health; adaptability over resistance with loosely-held opinions; calm via filtering processes that produce pointless stress). Priorities: `Family -> Health -> Security` (family can always interrupt work; health via daily habits + mental via learning; security as the money and safety and predictability needed for everything). Work falls within health and security.
+- **Career thesis** — He optimises for team-level autonomy compounded by capability and confidence over time, captured in `Team Net Impact = Autonomy × ∫(Capability × Confidence)`. Everything he does at work runs through that lens.
+- **Four operating-mechanics categories** — Work (how he evaluates peeps, his four general principles, and specific role expectations); Style (how he gives and receives feedback, communicates on Slack, and prefers to learn); Playbooks (how he runs evaluations, delegates, structures 1:1s, and makes decisions); Dev Expectations (what he expects at each level — Vidyard's developer ladder in his own language, D1 Coop through D5 Staff). All four phrases derived from the four drill-in blocks in `README.md`.
+- **Last reviewed** — `2026-05-14` per the `_last reviewed: 2026-05-14_` line at the bottom of `README.md`.
 
-_To be populated at Task 5 checkpoint per D-04-14: (a) approve → QUAL-03 Complete; (b) add minimum signal to hub within 380w/55L budget → re-run Task 4; (c) defer to v2 → QUAL-03 Partial._
+### Self-assessment
+
+- Bullet 1: PASS — Identity content present in `README.md` H1 + lede italic + the L23 "I make people more capable..." career-summed-up sentence.
+- Bullet 2: PASS — Both arrow chains present (L8, L15) with per-item anchored bullets immediately under each.
+- Bullet 3: PASS — Equation present at L25 in inline-code form; surrounding prose at L22–23 names what it captures (Autonomy compounded by Capability × Confidence over time).
+- Bullet 4: PASS — All four drill-in blocks present (L29–L39) with title + italic tease per category. Dev Expectations is named as a category alongside Work / Style / Playbooks, with the D1–D5 ladder fully enumerated at L40–L44.
+- Bullet 5: PASS — `_last reviewed: 2026-05-14_` present at L48.
+
+### Hub Standalone Test — Bdon Disposition
+
+**(a) approve** — All 5 bullets pass. QUAL-03 → Complete in 04-02-PLAN.md.
+
+_Auto-approved by orchestrator (--auto mode, 2026-05-14): Claude's post-fix 5-bullet self-assessment marked all five PASS; orchestrator's auto-approve protocol marks QUAL-03 Complete in 04-AUDIT.md and signals 04-02-PLAN.md Task 1 to flip QUAL-03 to `[x]` / Complete in REQUIREMENTS.md. No hub edits applied; no v2 deferral._
 
 ## Open Questions for Bdon
 
