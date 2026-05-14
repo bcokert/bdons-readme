@@ -26,4 +26,4 @@ _How I make and reverse decisions — what I decide alone, what I decide togethe
 
 _[placeholder: mechanics — what Bdon does in what order, with what outputs — plus the concrete behavioral question this playbook answers (e.g., "how do I know how I'm doing before review?", "how does a decision get reversed?").]_
 
-← [Back to readme](./readme.md)
+← [Back to readme](./README.md)

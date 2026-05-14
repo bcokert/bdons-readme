@@ -7,12 +7,12 @@
 
 ### Hub
 
-- [ ] **HUB-01**: `readme.md` renamed to `README.md` (GitHub platform convention)
-- [ ] **HUB-02**: Hub fits on one screen — ≤380 words / ≤55 rendered lines on default GitHub render
-- [ ] **HUB-03**: Hub opens with identity content + the Autonomy × ∫(Capability × Confidence) equation inline (orientation data, not a link)
-- [ ] **HUB-04**: Hub uses information-scent link blocks for each spoke: bold title + one-line tease naming the specific questions that spoke answers (no title-only links)
-- [ ] **HUB-05**: Hub links to all 3 spokes (`work.md`, `style.md`, `playbooks.md`) plus the D1–D5 dev-level block
-- [ ] **HUB-06**: Hub has a "last reviewed" date so staleness is visible
+- [x] **HUB-01**: `readme.md` renamed to `README.md` (GitHub platform convention)
+- [x] **HUB-02**: Hub fits on one screen — ≤380 words / ≤55 rendered lines on default GitHub render
+- [x] **HUB-03**: Hub opens with identity content + the Autonomy × ∫(Capability × Confidence) equation inline (orientation data, not a link)
+- [x] **HUB-04**: Hub uses information-scent link blocks for each spoke: bold title + one-line tease naming the specific questions that spoke answers (no title-only links)
+- [x] **HUB-05**: Hub links to all 3 spokes (`work.md`, `style.md`, `playbooks.md`) plus the D1–D5 dev-level block
+- [x] **HUB-06**: Hub has a "last reviewed" date so staleness is visible
 
 ### Spoke Files
 
@@ -70,12 +70,12 @@ Explicit exclusions. Documented to prevent scope creep.
 
 | Requirement | Phase | Status |
 |-------------|-------|--------|
-| HUB-01 | Phase 3 | Pending |
-| HUB-02 | Phase 3 | Pending |
-| HUB-03 | Phase 3 | Pending |
-| HUB-04 | Phase 3 | Pending |
-| HUB-05 | Phase 3 | Pending |
-| HUB-06 | Phase 3 | Pending |
+| HUB-01 | Phase 3 | Complete |
+| HUB-02 | Phase 3 | Complete |
+| HUB-03 | Phase 3 | Complete |
+| HUB-04 | Phase 3 | Complete |
+| HUB-05 | Phase 3 | Complete |
+| HUB-06 | Phase 3 | Complete |
 | SPOKE-01 | Phase 2 | Pending |
 | SPOKE-02 | Phase 2 | Pending |
 | SPOKE-03 | Phase 2 | Pending |
@@ -100,4 +100,4 @@ SPOKE-01 and HUB-05 were reconciled with the research recommendation in Phase 2 
 
 ---
 *Requirements defined: 2026-05-11*
-*Last updated: 2026-05-11 after roadmap creation (traceability populated)*
+*Last updated: 2026-05-14 — HUB-01..HUB-06 marked complete after Phase 3 ship*

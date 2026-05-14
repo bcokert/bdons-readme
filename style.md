@@ -16,4 +16,4 @@ _How I give and receive feedback, communicate on Slack, and prefer to learn._
 * I learn via testing and experimenting, failure is a signal to improve future iterations. I'll often do something manually the first time to really undrestand it, then apply automation/reusability afterwards for efficiency
 * My memory is shit for isolated facts - I need to connect things in a graph of understanding or make it visual to retain, and I lean on visual communication wherever possible when aligning people
 
-← [Back to readme](./readme.md)
+← [Back to readme](./README.md)

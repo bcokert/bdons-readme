@@ -32,4 +32,4 @@ I've integrated by own expectations with Vidyard's in my own language here:
 * [Senior - D4](./senior-d4.md)
 * [Staff - D5](./staff-d5.md)
 
-← [Back to readme](./readme.md)
+← [Back to readme](./README.md)
