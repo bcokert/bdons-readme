@@ -12,7 +12,7 @@
 
 ## Final shape
 
-- **Orientation (top):** `_How I evaluate you, the four operating principles, and the dev ladder._` (12 content words; under D-35 cap)
+- **Orientation (top):** drafted `_How I evaluate you, the four operating principles, and the dev ladder._` (12 words); Bdon tightened post-commit to `_How I evaluate peeps, myt four general principles, and specific role expectations._` (12 words; "peeps" voice carryforward from readme.md, "myt" voice typo preserved per D-06). Tightened version shipped in commit `09c5d0f` (or similar — see git log for exact SHA).
 - **`### How I Evaluate You`** (FIX-01 position preserved, above `### General Expectations`) — Proactivity & Ownership body + 1 placeholder for "what it looks like day-to-day / failure mode"
 - **`### General Expectations`** — 3 principle bullets ported verbatim (Test-when-Reversible, Work Out Loud with Intent, Treat AI as a Powertool), each followed by a placeholder of identical surface pattern
 - **`### Dev Expectations`** — Engineering Ladder paragraph + Vidyard sheet link + D1–D5 link list, ported verbatim including the "by own expectations" voice typo
