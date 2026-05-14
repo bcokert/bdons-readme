@@ -76,7 +76,7 @@ Decimal phases appear between their surrounding integers in numeric order.
   4. Voice read-aloud test passes on each spoke file: terse, deadpan, structured, no warmup, no inflation, no HR-coded language; distinctive markers ("my memory is shit," equations) intact
 **Plans**: 2 plans
   - [x] 04-01-PLAN.md — Run automated audit (link / trust-claim / voice / carryforward) → checkpoint for Bdon dispositions → apply approved atomic fix-commits → hub-standalone test
-  - [ ] 04-02-PLAN.md — Patch REQUIREMENTS.md + PROJECT.md (QUAL-01..03 -> Complete; QUAL-02 Active -> Validated; Phase 4 Key Decisions row)
+  - [x] 04-02-PLAN.md — Patch REQUIREMENTS.md + PROJECT.md (QUAL-01..03 -> Complete; QUAL-02 Active -> Validated; Phase 4 Key Decisions row)
 
 ## Progress
 
