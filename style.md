@@ -1,7 +1,3 @@
-# Style
-
-_How I give and receive feedback, communicate on Slack, and prefer to learn._
-
 ### Feedback and Performance
 * Giving Feedback - I generally share in the moment or right after while the memory is fresh. What behaviour you did -> what impact it had and why -> Coaching if needed -> outcome if no change happens (for serious stuff)
 * My ideal performance review in either direction is not news to anyone, just a summary of recent feedback and coming opportunities
