@@ -4,11 +4,11 @@ I make autonomous teams and capable and confident people.
 
 `Team Net Impact = Autonomy × ∫(Capability × Confidence)`
 
-**[Values and Priorities →](./values.md)** _What I care about most in life and work._
+**[Values and Priorities](./values.md)**
 
-**[Style →](./style.md)** _How I give and receive feedback, communicate on Slack, and prefer to learn._
+**[My Style](./style.md)**
 
-**[Core Expectations →](./core-expectations.md)** _How I evaluate anyone._
+**[Core Expectations](./core-expectations.md)**
 
 ## Vidyard
 

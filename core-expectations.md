@@ -1,12 +1,16 @@
-## Most Important
-
 TL;DR - Identify what you think is best and take action on your own (proactivity), create opportunities for input and sharing learnings (work out loud) without getting blocked (intent not permission), and keep me up to date as needed to avoid surprises (ownership).
 
-**Proactivity**: Bad - You always wait to be told what you do. Good - You act on your own whenever possible, and get help or unblocked quickly otherwise.
+**Proactivity**:
+* Bad - You always wait to be told what you do.
+* Good - You act on your own whenever possible, and get help or unblocked quickly otherwise.
 
-**Ownership**: Bad - I have to ask you frequently what you're doing to avoid surprises or detect blockers. Good - You ensure I know how things are going and when you need support.
+**Ownership**:
+* Bad - I have to ask you frequently what you're doing to avoid surprises or detect blockers.
+* Good - You ensure I know how things are going and when you need support.
 
-**Work Out Loud with Intent, not Permission**: Bad - You wait for permission to move forward, or get blocked waiting for input. Good - You share your plan out loud but don't wait for permission or input unless it's an irreversible decision, and share the results (good or bad) so others can learn.
+**Work Out Loud with Intent, not Permission**:
+* Bad - You wait for permission to move forward, or get blocked waiting for input.
+* Good - You share your plan out loud but don't wait for permission or input unless it's an irreversible decision, and share the results (good or bad) so others can learn.
 
 ### Examples
 * _"I think we should add a 1-2 week project to migrate our db gateway to ABC ORM because then we don't need to write 3 integrations down the road for each client, we can just re-use a simple wrapper. We could delay these 6 tickets to make room for it."_
