@@ -11,6 +11,6 @@ Family -> Health -> Security
 * Health: physical via daily habits, mental via learning and flexibility and connection
 * Security: The money and safety and predictability needed for everything
 
-Work falls mostly in health (achievement & learning & connection) + security (income & predictability).
+Work fits across all 3, providing the learning, connection, and financial security me and my family need.
 
 ← [Back to readme](./README.md)
